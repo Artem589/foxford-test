@@ -7,7 +7,7 @@
 <script setup lang="ts">
 import SearchInput from "@/components/SearchInput.vue";
 import RepositoryItem from "@/components/RepositoryItem.vue";
-import Pagination from "@/components/Pagination.vue";
+import Pagination from "@/components/SearchPagination.vue";
 import { useSearchStore } from "@/stores/store";
 import { storeToRefs } from "pinia";
 
