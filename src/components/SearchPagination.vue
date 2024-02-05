@@ -87,6 +87,3 @@ const displayedPages = computed(() => {
 });
 </script>
 
-<style scoped>
-
-</style>

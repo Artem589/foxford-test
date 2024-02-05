@@ -54,8 +54,3 @@ const { languageColor, linkStars } = store;
 languageColor();
 
 </script>
-
-
-<style scoped>
-
-</style>

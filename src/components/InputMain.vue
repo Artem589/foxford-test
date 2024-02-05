@@ -16,7 +16,3 @@ const store = useSearchStore();
 const { isLoading } = storeToRefs(store);
 
 </script>
-
-<style scoped>
-
-</style>

@@ -21,6 +21,3 @@ const { searchQuery } = storeToRefs(store);
 const { searchRepositories } = store;
 
 </script>
-
-
-<style scoped></style>
